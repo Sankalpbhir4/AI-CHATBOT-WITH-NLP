@@ -54,3 +54,4 @@ Learned the structure of chatbots and how they can be expanded into more intelli
 Conclusion: This chatbot was a rule-based, console-level AI assistant. Although basic, it forms the foundation of more advanced systems that integrate deep learning models or voice interaction. The task helped me understand the building blocks of NLP-driven bots and the potential to expand them for real-world applications such as customer service, FAQs, or personal assistants.
 
 #output
+<img width="746" height="553" alt="Image" src="https://github.com/user-attachments/assets/38cc52e8-8f8b-4ae5-8965-39f85c72ef70" />
